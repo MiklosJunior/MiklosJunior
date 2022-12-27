@@ -1,4 +1,6 @@
-- 👋 Olá Seja Bem Vindo, Meu nome é Miklos, Atualmente estou estudando Análise e Desenvolvimento 
+Olá Seja Muito Bem Vindo:
+
+- 👋 Meu nome é Miklos, Atualmente estou estudando Análise e Desenvolvimento 
 de Sistemas no período noturno, no Centro Universitário UFBRA, e possuo conhecimento em inglês avançado.
 
 - 👀 Estou Buscando novos desafios profissionais, utilizando meus conhecimentos de técnico em informática e meus estudos da área de análise e desenvolvimento de sistemas, visando 
@@ -11,6 +13,8 @@ o desenvolvimento de um trabalho objetivo e gerador de resultados, possibilitand
 Furukawa Electric do curso de FCP Fibras Ópticas e recentemente conclui um curso de Power BI, no qual o ensinamento foi desde básico ao Avançado pela Plataforma Udemy.
 
 - 📫 Caso seja preciso, pode sempre entrar em contato comigo, através do meu LINKEDIN Miklos Júnior. :)
+
+Agradeço Pela Atenção, Tenha um Ótimo Dia !
 
 <!---
 MiklosJunior/MiklosJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
